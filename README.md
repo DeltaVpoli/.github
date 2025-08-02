@@ -1,18 +1,18 @@
 ![Imagem do nosso Drone, LOGAN](HeaderLinkedIn.png)
 
-<h1><img src="icon.png" alt="Logo Delta V Drones" width="25px" style="vertical-align: middle;"> Bem-vindo(a) ao Projeto Delta V Drones!</h1>
+<h1><img src="icon.png" alt="Logo Delta V Drones" width="20px" style="vertical-align: middle;"> Bem-vindo(a) ao Projeto Delta V Drones!</h1>
 
 Somos uma equipe de competição da **Universidade de Pernambuco (UPE - POLI)**, formada por estudantes e professores apaixonados por aeronáutica e tecnologia. Nosso foco é o desenvolvimento de drones de alto desempenho para participar de desafios de engenharia, como a competição **SAE Brasil Eletroquad**.
 
 ---
 
-## Nossa Missão
+<h2><img src="icon.png" alt="Logo Delta V Drones" width="20px" style="vertical-align: middle;"> Nossa Missão</h2>
 
 > Nossa missão é projetar, construir e operar drones inovadores, aplicando na prática os conhecimentos de engenharia. Buscamos superar os desafios da competição, fomentar o desenvolvimento tecnológico e representar com excelência a nossa universidade no cenário nacional.
 
 ---
 
-##  Nossos Setores
+<h2><img src="icon.png" alt="Logo Delta V Drones" width="20px" style="vertical-align: middle;"> Nossos Setores</h2>
 
 O projeto é organizado em setores multidisciplinares, onde cada equipe é responsável por uma parte crucial do nosso drone.
 
@@ -24,7 +24,7 @@ O projeto é organizado em setores multidisciplinares, onde cada equipe é respo
 
 ---
 
-## Nossa Equipe
+<h2><img src="icon.png" alt="Logo Delta V Drones" width="20px" style="vertical-align: middle;"> Nossa Equipe</h2>
 
 O **Delta V Drones** é movido pelas seguintes pessoas:
 
