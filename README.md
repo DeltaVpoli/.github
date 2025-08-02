@@ -1,4 +1,4 @@
-![Imagem do nosso Drone, LOGAN]("HeaderLinkedIn.png)
+![Imagem do nosso Drone, LOGAN](HeaderLinkedIn.png)
 
 # Bem-vindo(a) ao Projeto Delta V Drones! 
 
