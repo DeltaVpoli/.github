@@ -1,8 +1,8 @@
+![Imagem do nosso Drone, LOGAN]("HeaderLinkedIn.png)
+
 # Bem-vindo(a) ao Projeto Delta V Drones! 
 
 Somos uma equipe de competição da **Universidade de Pernambuco (UPE - POLI)**, formada por estudantes e professores apaixonados por aeronáutica e tecnologia. Nosso foco é o desenvolvimento de drones de alto desempenho para participar de desafios de engenharia, como a competição **SAE Brasil Eletroquad**.
-
-![TImagem do nosso Drone, LOGAN, voando](droneLOGAN.JPG)
 
 ---
 
