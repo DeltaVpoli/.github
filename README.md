@@ -1,6 +1,6 @@
 ![Imagem do nosso Drone, LOGAN](HeaderLinkedIn.png)
 
-<h1><img src="icon.png" alt="Logo Delta V Drones" width="30px"> Bem-vindo(a) ao Projeto Delta V Drones!</h1>
+<h1><img src="icon.png" alt="Logo Delta V Drones" width="30px" style="vertical-align: middle;"> Bem-vindo(a) ao Projeto Delta V Drones!</h1>
 
 Somos uma equipe de competição da **Universidade de Pernambuco (UPE - POLI)**, formada por estudantes e professores apaixonados por aeronáutica e tecnologia. Nosso foco é o desenvolvimento de drones de alto desempenho para participar de desafios de engenharia, como a competição **SAE Brasil Eletroquad**.
 
