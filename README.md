@@ -19,7 +19,7 @@ O projeto é organizado em setores multidisciplinares, onde cada equipe é respo
 * **Aerodesign:** Responsável pelo projeto estrutural, aerodinâmico e pela fabricação da aeronave.
 * **Visão Computacional:** Desenvolve algoritmos para que o drone possa "enxergar" e interpretar o ambiente, permitindo a navegação autônoma e a execução de tarefas.
 * **Sistemas Embarcados:** Cuida do "cérebro" do drone, integrando hardware e software para processar dados e comandar os atuadores.
-* **Sensores:** Seleciona e integra os sensores que coletam os dados essenciais para o voo e a operação do drone.
+* **Sensores e Navegação:** Seleciona e integra os sensores que coletam os dados essenciais para o voo e a operação do drone.
 * **Controle e Simulação:** Cria os modelos matemáticos e as lógicas de controle que garantem um voo estável e preciso, além de realizar simulações para prever e validar o comportamento da aeronave.
 
 ---
@@ -29,9 +29,9 @@ O projeto é organizado em setores multidisciplinares, onde cada equipe é respo
 O **Delta V Drones** é movido pelas seguintes pessoas:
 
 * **George Azevedo** - *Professor Coordenador*
-* **Carolyne Borges** - *Líder de Gestão* - [@usuario-capitao](https://github.com/usuario-capitao)
-* **Eliton Sena** - *Líder Operacional e Líder de Sensores* - [@usuario-membro](https://github.com/usuario-membro)
+* **Carolyne Borges** - *Líder de Gestão* - [@carolyne-borges](https://www.linkedin.com/in/carolyne-borges-476a14371/)
+* **Eliton Sena** - *Líder Operacional e Líder de Sensores e Navegação* - [@elitonsena](https://www.linkedin.com/in/elitonsena/)
 * **Ana (Benny) Soares** - *Líder de Visão Computacional* - [@ana-soares](https://www.linkedin.com/in/ana-soares-absn1/)
-* **Pedro Gabriel** - *Líder de Controle e Simulação* - [@usuario-membro](https://github.com/usuario-membro)
-* **Gilvan Neto** - *Líder de Sistemas Embarcados* - [@usuario-membro](https://github.com/usuario-membro)
+* **Pedro Gabriel** - *Líder de Controle e Simulação* - [@pedro-gabriel-silva](https://www.linkedin.com/in/pedro-gabriel-silva-8541b3261/)
+* **Gilvan Neto** - *Líder de Sistemas Embarcados* - [@gilvan-neto](https://www.linkedin.com/in/gilvan-neto-51124a2b0/)
 * **??** - *Líder de Aerodesign* - [@usuario-membro](https://github.com/usuario-membro)
